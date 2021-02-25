@@ -1,5 +1,5 @@
 {
-  "name": "@chatwoot/prosemirror-schema",
+  "name": "@sandstreamdev/prosemirror-schema",
   "version": "1.0.0",
   "description": "Schema setup for using prosemirror in chatwoot. Based on 👉 https://github.com/ProseMirror/prosemirror-example-setup/",
   "main": "src/index.js",
@@ -30,8 +30,5 @@
     "prosemirror-schema-list": "^1.1.4",
     "prosemirror-state": "^1.3.3",
     "prosemirror-view": "^1.17.2"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@chatwoot"
   }
 }
